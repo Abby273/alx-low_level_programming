@@ -1,17 +1,20 @@
 #include "main.h"
 /**
- *main - entry point.
- *Description: program starts and ends here.
- *Return: 0 on success.
+ * main - Print "_putchar" followed by a new line.
+ * Description: You are not allowed to include standard libraries.
+ * Return: 0
  */
 int main(void)
 {
-char text[4] = "Main";
-int i;
-for (i = 0; i < 4; i++)
-{
-_putchar(text[i]);
-}
-_putchar('\n');
-return (0);
+	char putchar[] = "_putchar";
+	int i = 0;
+
+	while (putchar[i] != '\0')
+	{
+		_putchar(putchar[i]);
+		i++;
+	}
+	_putchar('\n');
+
+	return (0);
 }
