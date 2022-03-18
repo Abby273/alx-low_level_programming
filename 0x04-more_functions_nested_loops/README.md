@@ -1,1 +1,1 @@
-# More functions and nested loops project
+# Functions and Nested Loops projects
