@@ -1,0 +1,5 @@
+# 0x05. C - Pointers, arrays and strings
+In this project I learnt more about pointers, arrays and strings.
+<h2>Pointer</h2>: is a variable whose value is the address of another variable, i.e., direct address of the memory location. Like any variable or constant, you must declare a pointer before using it to store any variable address.
+<h2>Array</h2> a kind of data structure that can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+<h2>strings</h2> Strings are actually one-dimensional array of characters terminated by a <h3>null</h3> character '\0'. Thus a null-terminated string contains the characters that comprise the string followed by a <h3>null</h3>. 
