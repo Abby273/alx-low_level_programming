@@ -13,7 +13,7 @@ int _strlen(char *s)
 
 	a = *s;
 
-	s = "";
+	s = "Holberton!";
 	printf("%d\n", a);
 	return (0);
 }
