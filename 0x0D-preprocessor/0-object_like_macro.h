@@ -1,14 +1,4 @@
-#ifndef 0-OBJECT_LIKE_MACRO_H
-#define 0-OBJECT_LIKE_MACRO_H
-#include <stdio.h>
-
+#ifndef _0-OBJECT_LIKE_MACRO_
+#define _0-OBJECT_LIKE_MACRO_
 #define SIZE 1024
-
-int main()
-{
-    int i = SIZE;
-    printf("%d\, i);
-
-    return (0);
-}
 #endif
